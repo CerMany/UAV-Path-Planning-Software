@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>png/appIcon.png</file>
+        <file>png/drone.png</file>
+        <file>png/marker-green.png</file>
+        <file>png/marker-red.png</file>
+        <file>png/pinIcon.png</file>
+        <file>hgt-file/N20E105.hgt</file>
+        <file>hgt-file/N20E106.hgt</file>
+        <file>hgt-file/N21E105.hgt</file>
+        <file>hgt-file/N21E106.hgt</file>
+        <file>geojson-file/bo-cong-an-1km.geojson</file>
+        <file>geojson-file/bo-cong-thuong-0.5km.geojson</file>
+        <file>geojson-file/benh-vien-y-hoc-co-truyen-0.5km.geojson</file>
+        <file>geojson-file/bv-108-0.5km.geojson</file>
+        <file>geojson-file/hoc-vien-quoc-phong-0.5km.geojson</file>
+        <file>geojson-file/nha-quoc-hoi-1km.geojson</file>
+    </qresource>
+</RCC>
